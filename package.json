@@ -1,0 +1,14 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "Idea sharing App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Abdullah Abde",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
